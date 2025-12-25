@@ -1,0 +1,20 @@
+# Unreal Engine project ignores
+
+# Build output
+Binaries/
+Build/
+
+# Intermediate files
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE files
+.vscode/
+*.sln
+
+# Backup/Autosaves
+*_Backup/
+*.tmp
+*.temp
+*.log
